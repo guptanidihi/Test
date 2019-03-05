@@ -1,0 +1,16 @@
+{
+  "firstname":"Nidhi",
+  "middleName":"Kumari",
+  "lastName":"Jain",
+  "initials":["N","K","J"],
+  "age":38,
+  "gender":"Female",
+  "Phone":"1234567890",
+  "cars":[{ 
+          "name":"Ford",
+	      "models":"Fiesta"
+		  }],
+   "FuelType":"Petrol",
+   "Transmission":"Automatic",
+   "PurchaseYear":"2012"
+ }
